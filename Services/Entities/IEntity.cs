@@ -1,6 +1,6 @@
 namespace Services.Entities
 {
-    public interface iEntity
+    public interface IEntity
     {
         long Id { get; }
     }
