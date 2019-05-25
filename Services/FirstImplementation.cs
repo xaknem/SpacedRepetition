@@ -67,7 +67,7 @@ namespace Services
 
         protected virtual void Delete()
         {
-            
+            //metod for card deletion
         }
     }
 }
